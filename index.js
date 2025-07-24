@@ -12,4 +12,4 @@ app.get("/test",(req,res)=>{
 })
 
 
-app.listen(8000,()=>console.log("server is runing"))
+app.listen(8080,()=>console.log("server is runing"))
